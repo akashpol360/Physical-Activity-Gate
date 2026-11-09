@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Physical Activity Gate</string>
+    <string name="accessibility_service_description">Detects when a selected protected app is on screen — including in a floating or split-screen window — so the local physical-activity gate can be shown. It only reads which app owns each window; it never reads, records, or transmits on-screen text, images, or other content.</string>
+</resources>

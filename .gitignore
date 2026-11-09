@@ -1,0 +1,11 @@
+
+# Local build files
+.gradle/
+.idea/
+.kotlin/
+build/
+app/build/
+local.properties
+*.jks
+*.keystore
+key.properties

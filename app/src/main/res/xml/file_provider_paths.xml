@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Local copy of the privacy policy, written to cache/privacy/ at runtime -->
+    <cache-path name="privacy" path="privacy/" />
+</paths>
